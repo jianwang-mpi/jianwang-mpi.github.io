@@ -120,4 +120,4 @@ social:
 highlight_name: true
 ---
 
-Jian Wang is a good man. a good man, a god man, a good man.
+I'm Jian Wang, a 4th year Ph.D. student at <a href="https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence">D6 of Max Planck Institute for Informatics (MPI-INF)</a>, advised by Professor <a href="https://people.mpi-inf.mpg.de/~theobalt/">Christian Theobalt</a>. I 
