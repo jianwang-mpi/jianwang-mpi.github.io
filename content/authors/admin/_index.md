@@ -3,7 +3,7 @@
 title: Jian Wang
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Jian Wang
 
 # Full name (for SEO)
 first_name: Jian
@@ -114,10 +114,10 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Jian Wang is a good man.
+Jian Wang is a good man. a good man, a god man, a good man.
