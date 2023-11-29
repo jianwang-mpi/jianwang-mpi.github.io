@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://people.mpi-inf.mpg.de/~jianwang/projects/sceneego/data/camera_ready.pdf'
 url_code: 'https://github.com/jianwang-mpi/SceneEgo'
 url_dataset: ''
 url_poster: ''
@@ -55,6 +55,9 @@ url_project: 'https://people.mpi-inf.mpg.de/~jianwang/projects/sceneego/index.ht
 url_slides: ''
 url_source: ''
 url_video: 'https://people.mpi-inf.mpg.de/~jianwang/projects/sceneego/data/camera_ready.mp4'
+links:
+- name: supp. mat.
+  url: https://people.mpi-inf.mpg.de/~jianwang/projects/sceneego/data/supp_mat.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
