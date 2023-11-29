@@ -180,21 +180,21 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: experience
     content:
       title: Experience
@@ -235,8 +235,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Write your text here.
+      # text: 
       # Contact (add or remove contact options as necessary)
       email: jianwang@mpi-inf.mpg.de
       # phone: 888 888 88 88
