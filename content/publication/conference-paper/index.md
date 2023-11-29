@@ -5,7 +5,7 @@ title: 'Scene-aware Egocentric 3D Human Pose Estimation.'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jian Wang
+  - admin
   - Diogo Luvizon
   - Weipeng Xu
   - Lingjie Liu
@@ -91,6 +91,6 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-<div class="container">
+<!-- <div class="container">
                 <video id="vid" width="768" height="432" controls><source src="https://people.mpi-inf.mpg.de/~jianwang/projects/sceneego/data/camera_ready.mp4" type="video/mp4"></video>
-				</div>
+				</div> -->
