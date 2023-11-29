@@ -30,7 +30,7 @@ bio: My research interests encompass a broad spectrum of human motion and egocen
 # Interests to show in About widget
 interests:
   - Egocentric Human Motion Capture
-  - Computational Vision
+  - Computer Vision
   - Human Motion Generation
 
 # Education to show in About widget
