@@ -120,4 +120,4 @@ social:
 highlight_name: true
 ---
 
-I'm Jian Wang, a 4th year Ph.D. student at <a href="https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence">D6 of Max Planck Institute for Informatics (MPI-INF)</a>, advised by Professor <a href="https://people.mpi-inf.mpg.de/~theobalt/">Christian Theobalt</a>. I 
+I'm Jian Wang, a 4th year Ph.D. student at <a href="https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence">D6 of Max Planck Institute for Informatics (MPI-INF)</a>, advised by Professor <a href="https://people.mpi-inf.mpg.de/~theobalt/">Christian Theobalt</a>. During my master study in ISCAS, I worked in the area of programming languge and fortuneately surpervised by <a href="https://lcs.ios.ac.cn/~znj/">Prof. Naijun Zhan</a>. I also worked with <a href="https://yichenwei.github.io/">Yichen Wei</a> and Chi Zhang on the texture generation of 3D human body during my internship in Face++. Prior to that, I was a student working in organic materials <i class="fa-solid fa-flask-vial"></i> in Peking University.
