@@ -1,17 +1,16 @@
 ---
 title: "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
 authors:
-- Hiroyasu Akada
 - admin
-- Soshi Shimada
-- Masaki Takahashi
+- Lingjie Liu
+- Weipeng Xu
+- Kripasindhu Sarkar
 - Christian Theobalt
-- Vladislav Golyanik
-date: "2022-10-23T00:00:00Z"
+date: "2021-10-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-23T00:00:00Z"
+publishDate: "2021-10-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,13 +18,13 @@ publishDate: "2022-10-23T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *European Conference on Computer Vision*
-publication_short: In *ECCV*
+publication: In *International Conference on Computer Vision*
+publication_short: In *ICCV*
 
-abstract: We present UnrealEgo, i.e., a new large-scale naturalistic dataset for egocentric 3D human pose estimation. UnrealEgo is based on an advanced concept of eyeglasses equipped with two fisheye cameras that can be used in unconstrained environments. We design their virtual prototype and attach them to 3D human models for stereo view capture. We next generate a large corpus of human motions. As a consequence, UnrealEgo is the first dataset to provide in-the-wild stereo images with the largest variety of motions among existing egocentric datasets. Furthermore, we propose a new benchmark method with a simple but effective idea of devising a 2D keypoint estimation module for stereo inputs to improve 3D human pose estimation. The extensive experiments show that our approach outperforms the previous state-of-the-art methods qualitatively and quantitatively. UnrealEgo and our source codes are available on our project web page (https://4dqv.mpi-inf.mpg.de/UnrealEgo/).
+abstract: Egocentric 3D human pose estimation using a single fisheye camera has become popular recently as it allows capturing a wide range of daily activities in unconstrained environments, which is difficult for traditional outside-in motion capture with external cameras. However, existing methods have several limitations. A prominent problem is that the estimated poses lie in the local coordinate system of the fisheye camera, rather than in the world coordinate system, which is restrictive for many applications. Furthermore, these methods suffer from limited accuracy and temporal instability due to ambiguities caused by the monocular setup and the severe occlusion in a strongly distorted egocentric perspective. To tackle these limitations, we present a new method for egocentric global 3D body pose estimation using a single head-mounted fisheye camera. To achieve accurate and temporally stable global poses, a spatio-temporal optimization is performed over a sequence of frames by minimizing heatmap reprojection errors and enforcing local and global body motion priors learned from a mocap dataset. Experimental results show that our approach outperforms state-of-the-art methods both quantitatively and qualitatively.
 
 # Summary. An optional shortened abstract.
-summary: We present UnrealEgo, i.e., a new large-scale naturalistic dataset for egocentric 3D human pose estimation.
+summary: We present a new method for egocentric global 3D body pose estimation using a single head-mounted fisheye camera.
 
 tags:
 - Source Themes
@@ -34,7 +33,7 @@ featured: false
 links:
 # - name: Arxiv
 #   url: https://arxiv.org/abs/2311.16495
-url_project: 'https://4dqv.mpi-inf.mpg.de/UnrealEgo/'
+url_project: 'https://vcai.mpi-inf.mpg.de/projects/globalegomocap/'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

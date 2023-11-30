@@ -220,8 +220,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: China
-          date_start: '2019-06-01'
-          date_end: '2019-11-30'
+          date_start: '2018-06-01'
+          date_end: '2018-11-30'
           description: Human texture generation from a single image.
         - title: Research Intern
           company: Baidu Inc.
