@@ -1,5 +1,5 @@
 ---
-title: "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
+title: "Estimating Egocentric 3D Human Pose in Global Space"
 authors:
 - admin
 - Lingjie Liu

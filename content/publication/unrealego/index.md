@@ -1,5 +1,5 @@
 ---
-title: "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
+title: "UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture."
 authors:
 - Hiroyasu Akada
 - admin

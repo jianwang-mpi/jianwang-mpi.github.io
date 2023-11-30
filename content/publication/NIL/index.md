@@ -1,5 +1,5 @@
 ---
-title: "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
+title: "NIL: Learning Nonlinear Interpolants."
 authors:
 - Mingshuai Chen 
 - admin

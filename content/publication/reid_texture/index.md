@@ -1,5 +1,5 @@
 ---
-title: "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
+title: "Re-Identification Supervised Texture Generation."
 authors:
 - admin
 - Yunshan Zhong

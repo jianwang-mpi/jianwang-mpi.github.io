@@ -1,5 +1,5 @@
 ---
-title: "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
+title: "From Model to Implementation: A Network-Algorithm Programming Language."
 authors:
 - admin
 - Jie An
