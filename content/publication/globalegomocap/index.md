@@ -1,5 +1,5 @@
 ---
-title: "Estimating Egocentric 3D Human Pose in Global Space"
+title: "Estimating Egocentric 3D Human Pose in Global Space."
 authors:
 - admin
 - Lingjie Liu
