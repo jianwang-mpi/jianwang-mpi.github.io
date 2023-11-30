@@ -28,7 +28,7 @@ summary: We present a new method for egocentric global 3D body pose estimation u
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 # - name: Arxiv

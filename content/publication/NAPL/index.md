@@ -1,7 +1,7 @@
 ---
 title: "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
 authors:
-- Adam
+- admin
 - Jie An
 - Mingshuai Chen
 - Naijun Zhan   
