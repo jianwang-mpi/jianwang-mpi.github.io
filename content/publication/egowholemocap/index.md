@@ -36,7 +36,7 @@ featured: true
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2311.16495
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2311.16495.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
