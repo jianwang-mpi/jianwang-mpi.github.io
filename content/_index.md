@@ -224,6 +224,14 @@ sections:
           date_end: '2018-11-30'
           description: Human texture generation from a single image.
         - title: Research Intern
+          company: Institute of Automation, Chinese Academy of Sciences
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2018-01-01'
+          date_end: '2018-06-01'
+          description: Reinforcement learning for playing starcraft.
+        - title: Research Intern
           company: Baidu Inc.
           company_url: ''
           company_logo: ''
