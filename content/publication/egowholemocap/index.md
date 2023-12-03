@@ -36,11 +36,11 @@ featured: true
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2311.16495
+url_project: 'https://people.mpi-inf.mpg.de/~jianwang/projects/egowholemocap/index.html'
 url_pdf: 'https://arxiv.org/pdf/2311.16495.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
