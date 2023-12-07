@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Max Planck Institute for Informatics
-      year: 2020 - now
+      year: 2020 - 2024
     - course: MEng in Computer Science
       institution: Institute of Software, Chinese Academy of Sciences
       year: 2016 - 2019
