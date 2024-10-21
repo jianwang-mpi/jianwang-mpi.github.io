@@ -23,6 +23,8 @@ role: Ph.D. student in Computer Vision
 organizations:
   - name: Max Planck Institute for Informatics
     url: https://www.mpi-inf.mpg.de/home
+  - name: Saarland University
+    url: https://www.uni-saarland.de/start.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests encompass a broad spectrum of human motion and egocentric vision. Recently I am focusing on the egocentric human motion capture.
